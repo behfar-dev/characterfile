@@ -1,4 +1,3 @@
-.env
 .DS_Store
 cache/
 logs/
@@ -7,3 +6,6 @@ node_modules/
 twitter-*/
 model.gguf
 knowledge/
+output/
+whatsapp
+config.bat
